@@ -151,4 +151,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - Inspired by financial data analysis tutorials and best practices.
 
 ## Contact
-For questions or feedback, please open an issue on GitHub or contact [your-email@example.com](mailto:your-email@example.com).
+For questions or feedback, please open an issue on GitHub or contact gauthampre123@gmail.com.
