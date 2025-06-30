@@ -21,7 +21,7 @@ The dataset, `Daily Household Transactions.csv`, contains 2461 transactions with
 - **Income/Expense**: Type of transaction (Income, Expense, or Transfer-Out).
 - **Currency**: Currency of the transaction (all INR).
 
-**Source**: The dataset is referenced from [Kaggle](https://www.kaggle.com/datasets/path/to/daily-transactions-dataset) (replace with actual link if available).
+**Source**: The dataset is referenced from [Kaggle].
 
 ## Prerequisites
 - **Google Colab Account**: Required to run the notebook.
